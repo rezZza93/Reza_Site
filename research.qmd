@@ -48,7 +48,7 @@ Empirical asset pricing, with a focus on extreme-return anomalies and the channe
 
 <div class="paper-entry">
 <div class="paper-head">
-<h3>Myopia, Investment, Innovation, and Stock Returns</h3>
+<h3>Myopia, Investment, Innovation, and Stock Returns: Using Textual Analysis to Predict Country-Level Investment, R&amp;D, and Equity Returns</h3>
 </div>
 <p class="paper-byline">Cohen, A. H., Kahibavil, R., &amp; Zhang, W. — early draft</p>
 <p class="paper-abstract">We examine whether national short-termism, inferred from corporate language, predicts subsequent real activity and equity market performance across countries. Using large-scale textual analysis of firm-quarter disclosures from the largest firms in the twenty largest equity markets, we construct a country-quarter Short-Termism Score (STS) capturing the relative emphasis on short-horizon versus long-horizon corporate language. Higher STS predicts lower subsequent capital formation and R&amp;D intensity, and forecasts lower future equity index returns — indicating that aggregate managerial language carries forward-looking information about long-run value creation that is priced in national equity markets.</p>

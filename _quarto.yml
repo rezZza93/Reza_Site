@@ -4,7 +4,11 @@ project:
 
 website:
   title: "Reza Kahibavil"
-  site-url: "https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/"
+  description: "Ph.D. candidate in Finance at Old Dominion University — empirical asset pricing, return predictability, and portfolio analytics."
+  site-url: "https://rezzza93.github.io/Reza_Site/"
+  favicon: assets/favicon.svg
+  open-graph: true
+  twitter-card: true
   navbar:
     left:
       - href: index.qmd

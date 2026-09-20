@@ -1,1 +1,1 @@
-Sitemap: https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/sitemap.xml
+Sitemap: https://rezzza93.github.io/Reza_Site/sitemap.xml

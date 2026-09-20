@@ -6,7 +6,7 @@ Ph.D. candidate in Finance, Old Dominion University — empirical asset pricing,
 
 Formerly founder and portfolio manager of a financial advisory firm managing more than 100 individual and 20 institutional portfolios. Now researching how extreme returns, retail participation, and market frictions shape the cross-section of stock returns, using large-scale panel data in Python, R, and SAS.
 
-**Contact:** [rkahi001@odu.edu](mailto:rkahi001@odu.edu) &nbsp;·&nbsp; 757-895-5266 &nbsp;·&nbsp; Spring, TX &nbsp;·&nbsp; CFA Level III Candidate
+**Contact:** [rkahi001@odu.edu](mailto:rkahi001@odu.edu) &nbsp;·&nbsp; 757-895-5266 &nbsp;·&nbsp; Norfolk, VA &nbsp;·&nbsp; CFA Level III Candidate
 
 ## Education
 
@@ -24,7 +24,7 @@ Formerly founder and portfolio manager of a financial advisory firm managing mor
 |:---|---:|
 | Ph.D. candidate, Finance | 2024– |
 | Portfolios managed (individual / institutional) | 100+ / 20 |
-| Publication / papers in the pipeline | 1 / 5 |
+| Publication / papers in the pipeline | 1 / 6 |
 | CFA | Level III candidate, Level II passed |
 
 : {.ledger-table}
