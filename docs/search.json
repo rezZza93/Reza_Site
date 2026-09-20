@@ -1,47 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Reza Kahibavil",
-    "section": "",
-    "text": "Ph.D. candidate in Finance, Old Dominion University — empirical asset pricing, return predictability, and portfolio analytics.\nFormerly founder and portfolio manager of a financial advisory firm managing more than 100 individual and 20 institutional portfolios. Now researching how extreme returns, retail participation, and market frictions shape the cross-section of stock returns, using large-scale panel data in Python, R, and SAS.\nContact: rkahi001@odu.edu  ·  757-895-5266  ·  Norfolk, VA  ·  CFA Level III Candidate"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Reza Kahibavil",
-    "section": "Education",
-    "text": "Education\n\n\n\n\n\n\n\nPh.D. Candidate, Finance — Old Dominion University, Norfolk, VA\n2024–Present\n\n\nM.S., Financial Engineering and Risk Management — University of Isfahan, International\n2017–2021\n\n\nB.S., Industrial Management — Shahid Beheshti University, International\n2012–2016"
-  },
-  {
-    "objectID": "index.html#at-a-glance",
-    "href": "index.html#at-a-glance",
-    "title": "Reza Kahibavil",
-    "section": "At a glance",
-    "text": "At a glance\n\n\n\nPh.D. candidate, Finance\n2024–\n\n\nPortfolios managed (individual / institutional)\n100+ / 20\n\n\nPublication / papers in the pipeline\n1 / 5\n\n\nCFA\nLevel III candidate, Level II passed"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Independent and applied work alongside the dissertation research."
-  },
-  {
-    "objectID": "projects.html#strategy-lab",
-    "href": "projects.html#strategy-lab",
-    "title": "Projects",
-    "section": "Strategy Lab",
-    "text": "Strategy Lab\nIn development\nA platform for constructing, backtesting, and comparing custom investment strategies against point-in-time market data — including multi-way portfolio sorts (5×5, 10×10) in the style of academic asset-pricing methodology — paired with financial-education and risk-profiling tools."
-  },
-  {
-    "objectID": "projects.html#analog-forecasting-backtest",
-    "href": "projects.html#analog-forecasting-backtest",
-    "title": "Projects",
-    "section": "Analog Forecasting Backtest",
-    "text": "Analog Forecasting Backtest\nA short-horizon return-forecasting framework applying z-score standardized pattern matching and RMSE similarity to CRSP daily return data."
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
@@ -68,6 +26,55 @@
     "title": "CV",
     "section": "Certifications & awards",
     "text": "Certifications & awards\n\n\n\nCFA Level III Candidate, Passed Level II\n2026\n\n\nBloomberg Market Concepts\n2024\n\n\nGSAP Research Award, $4,000 — Old Dominion University\n2026\n\n\nRanked 2nd, Financial Engineering Graduates — U. Isfahan\n2021\n\n\nStock Market Stars League, U. Isfahan Team (4th of 34)\n2018–19"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Independent and applied work alongside the dissertation research."
+  },
+  {
+    "objectID": "projects.html#strategy-lab",
+    "href": "projects.html#strategy-lab",
+    "title": "Projects",
+    "section": "Strategy Lab",
+    "text": "Strategy Lab\nIn development\nA platform for constructing, backtesting, and comparing custom investment strategies against point-in-time market data — including multi-way portfolio sorts (5×5, 10×10) in the style of academic asset-pricing methodology — paired with financial-education and risk-profiling tools."
+  },
+  {
+    "objectID": "projects.html#analog-forecasting-backtest",
+    "href": "projects.html#analog-forecasting-backtest",
+    "title": "Projects",
+    "section": "Analog Forecasting Backtest",
+    "text": "Analog Forecasting Backtest\nA short-horizon return-forecasting framework applying z-score standardized pattern matching and RMSE similarity to CRSP daily return data."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Undergraduate finance instruction at Old Dominion University, plus earlier teaching assistantships."
+  },
+  {
+    "objectID": "teaching.html#instructor-department-of-finance-old-dominion-university",
+    "href": "teaching.html#instructor-department-of-finance-old-dominion-university",
+    "title": "Teaching",
+    "section": "Instructor, Department of Finance — Old Dominion University",
+    "text": "Instructor, Department of Finance — Old Dominion University\n\n\n\n\n\n\n\nFIN 323, Introduction to Financial Management (Online)\nSummer 2026\n\n\nFIN 323, Introduction to Financial Management (Online)\nSummer 2025\n\n\nFIN 323, Introduction to Financial Management (In-class)\nSpring 2025"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant-shahid-beheshti-university",
+    "href": "teaching.html#teaching-assistant-shahid-beheshti-university",
+    "title": "Teaching",
+    "section": "Teaching assistant, Shahid Beheshti University",
+    "text": "Teaching assistant, Shahid Beheshti University\n\n\n\nOperations Research I\nSpring 2015\n\n\nUndergraduate Mathematics II\nFall 2014\n\n\nUndergraduate Mathematics I\nSpring 2014\n\n\nPrivate tutoring, Mathematics\n2015–2017"
+  },
+  {
+    "objectID": "teaching.html#course-materials-fin-323",
+    "href": "teaching.html#course-materials-fin-323",
+    "title": "Teaching",
+    "section": "Course materials — FIN 323",
+    "text": "Course materials — FIN 323\n\n\n\n\n\n\n\nChapter\nMaterials available\n\n\n\n\n1 — An Overview of Financial Management\nSlides\n\n\n3 — Financial Statements, Cash Flow, and Taxes\nSlides, formula sheet, practice questions\n\n\n4 — Analysis of Financial Statements\nSlides\n\n\n5 — Time Value of Money\nSlides, formula sheet, practice questions\n\n\n6 — The Cost of Money\nSlides, formula sheet\n\n\n7 — Bonds and Their Valuation\nSlides, practice questions\n\n\n8 — Risk and Return\nSlides, formula sheet, practice questions\n\n\n9 — Stocks and Their Valuation\nSlides, formula sheet, practice questions\n\n\n\nThe formula sheet for Chapters 5 and 6 is the same PDF (it was written to cover both)."
   },
   {
     "objectID": "research.html",
@@ -98,31 +105,24 @@
     "text": "Working papers\n\nBeyond Realized Volatility: Why the IVOL Puzzle May Be a Mirage\nThe Conditional Predictive Power of Extreme Returns: An Extension of the Max Effect\nWhen Buybacks Meet Myopia: A Global Cross-Disciplinary Review of Short-Termism and Capital Allocation\nRevisiting Cross-Listing: Examining Stock Returns and Market Integration\nSports Betting Legalization and Speculative Stock Behavior — a triple difference-in-differences design\n\n\n\n\n\n\n\nDrafts for these go here as they firm up. Once one’s posted to SSRN or OSF, the title above becomes a link."
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Reza Kahibavil",
     "section": "",
-    "text": "Undergraduate finance instruction at Old Dominion University, plus earlier teaching assistantships."
+    "text": "Ph.D. candidate in Finance, Old Dominion University — empirical asset pricing, return predictability, and portfolio analytics.\nFormerly founder and portfolio manager of a financial advisory firm managing more than 100 individual and 20 institutional portfolios. Now researching how extreme returns, retail participation, and market frictions shape the cross-section of stock returns, using large-scale panel data in Python, R, and SAS.\nContact: rkahi001@odu.edu  ·  757-895-5266  ·  Norfolk, VA  ·  CFA Level III Candidate"
   },
   {
-    "objectID": "teaching.html#instructor-department-of-finance-old-dominion-university",
-    "href": "teaching.html#instructor-department-of-finance-old-dominion-university",
-    "title": "Teaching",
-    "section": "Instructor, Department of Finance — Old Dominion University",
-    "text": "Instructor, Department of Finance — Old Dominion University\n\n\n\n\n\n\n\nFIN 323, Introduction to Financial Management (Online)\nSummer 2026\n\n\nFIN 323, Introduction to Financial Management (Online)\nSummer 2025\n\n\nFIN 323, Introduction to Financial Management (In-class)\nSpring 2025"
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Reza Kahibavil",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\n\nPh.D. Candidate, Finance — Old Dominion University, Norfolk, VA\n2024–Present\n\n\nM.S., Financial Engineering and Risk Management — University of Isfahan, International\n2017–2021\n\n\nB.S., Industrial Management — Shahid Beheshti University, International\n2012–2016"
   },
   {
-    "objectID": "teaching.html#teaching-assistant-shahid-beheshti-university",
-    "href": "teaching.html#teaching-assistant-shahid-beheshti-university",
-    "title": "Teaching",
-    "section": "Teaching assistant, Shahid Beheshti University",
-    "text": "Teaching assistant, Shahid Beheshti University\n\n\n\nOperations Research I\nSpring 2015\n\n\nUndergraduate Mathematics II\nFall 2014\n\n\nUndergraduate Mathematics I\nSpring 2014\n\n\nPrivate tutoring, Mathematics\n2015–2017"
-  },
-  {
-    "objectID": "teaching.html#course-materials-fin-323",
-    "href": "teaching.html#course-materials-fin-323",
-    "title": "Teaching",
-    "section": "Course materials — FIN 323",
-    "text": "Course materials — FIN 323\n\n\n\n\n\n\n\nChapter\nMaterials available\n\n\n\n\n1 — An Overview of Financial Management\nSlides\n\n\n3 — Financial Statements, Cash Flow, and Taxes\nSlides, formula sheet, practice questions\n\n\n4 — Analysis of Financial Statements\nSlides\n\n\n5 — Time Value of Money\nSlides, formula sheet, practice questions\n\n\n6 — The Cost of Money\nSlides, formula sheet\n\n\n7 — Bonds and Their Valuation\nSlides, practice questions\n\n\n8 — Risk and Return\nSlides, formula sheet, practice questions\n\n\n9 — Stocks and Their Valuation\nSlides, formula sheet, practice questions\n\n\n\nThe formula sheet for Chapters 5 and 6 is the same PDF (it was written to cover both)."
+    "objectID": "index.html#at-a-glance",
+    "href": "index.html#at-a-glance",
+    "title": "Reza Kahibavil",
+    "section": "At a glance",
+    "text": "At a glance\n\n\n\nPh.D. candidate, Finance\n2024–\n\n\nPortfolios managed (individual / institutional)\n100+ / 20\n\n\nPublication / papers in the pipeline\n1 / 5\n\n\nCFA\nLevel III candidate, Level II passed"
   }
 ]

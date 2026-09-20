@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/index.html</loc>
-    <lastmod>2026-09-20T02:32:43.074Z</lastmod>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/cv.html</loc>
+    <lastmod>2026-09-20T06:35:16.000Z</lastmod>
   </url>
   <url>
     <loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/projects.html</loc>
-    <lastmod>2026-09-20T02:33:03.052Z</lastmod>
-  </url>
-  <url>
-    <loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/cv.html</loc>
-    <lastmod>2026-09-20T02:35:15.927Z</lastmod>
-  </url>
-  <url>
-    <loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/research.html</loc>
-    <lastmod>2026-09-20T02:32:12.420Z</lastmod>
+    <lastmod>2026-09-20T06:33:04.000Z</lastmod>
   </url>
   <url>
     <loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/teaching.html</loc>
-    <lastmod>2026-09-20T02:35:11.584Z</lastmod>
+    <lastmod>2026-09-20T06:35:12.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/research.html</loc>
+    <lastmod>2026-09-20T06:32:12.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/index.html</loc>
+    <lastmod>2026-09-20T06:32:44.000Z</lastmod>
   </url>
 </urlset>
