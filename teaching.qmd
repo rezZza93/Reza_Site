@@ -1,0 +1,43 @@
+---
+title: "Teaching"
+---
+
+Undergraduate finance instruction at Old Dominion University, plus earlier teaching assistantships.
+
+## Instructor, Department of Finance — Old Dominion University
+
+| | |
+|:---|---:|
+| FIN 323, Introduction to Financial Management (Online) | Summer 2026 |
+| FIN 323, Introduction to Financial Management (Online) | Summer 2025 |
+| FIN 323, Introduction to Financial Management (In-class) | Spring 2025 |
+
+: {.ledger-table}
+
+## Teaching assistant, Shahid Beheshti University
+
+| | |
+|:---|---:|
+| Operations Research I | Spring 2015 |
+| Undergraduate Mathematics II | Fall 2014 |
+| Undergraduate Mathematics I | Spring 2014 |
+| Private tutoring, Mathematics | 2015–2017 |
+
+: {.ledger-table}
+
+## Course materials — FIN 323
+
+| Chapter | Materials available |
+|:---|:---|
+| 1 — An Overview of Financial Management | [Slides](files/teaching/ch1/slides.pptx) |
+| 3 — Financial Statements, Cash Flow, and Taxes | [Slides](files/teaching/ch3/slides.pptx), [formula sheet](files/teaching/ch3/formula-sheet.docx), [practice questions](files/teaching/ch3/practice-questions.pdf) |
+| 4 — Analysis of Financial Statements | [Slides](files/teaching/ch4/slides.pptx) |
+| 5 — Time Value of Money | [Slides](files/teaching/ch5/slides.pptx), [formula sheet](files/teaching/ch5/formula-sheet.pdf), [practice questions](files/teaching/ch5/practice-questions.pdf) |
+| 6 — The Cost of Money | [Slides](files/teaching/ch6/slides.pptx), [formula sheet](files/teaching/ch6/formula-sheet.pdf) |
+| 7 — Bonds and Their Valuation | [Slides](files/teaching/ch7/slides.pptx), [practice questions](files/teaching/ch7/practice-questions.pdf) |
+| 8 — Risk and Return | [Slides](files/teaching/ch8/slides.pptx), [formula sheet](files/teaching/ch8/formula-sheet.pdf), [practice questions](files/teaching/ch8/practice-questions.pdf) |
+| 9 — Stocks and Their Valuation | [Slides](files/teaching/ch9/slides.pptx), [formula sheet](files/teaching/ch9/formula-sheet.pdf), [practice questions](files/teaching/ch9/practice-questions.pdf) |
+
+: {tbl-colwidths="[35,65]"}
+
+The formula sheet for Chapters 5 and 6 is the same PDF (it was written to cover both).

@@ -1,0 +1,32 @@
+---
+title: "CV"
+---
+
+[Download the full resume (.docx)](files/cv/Reza_Kahibavil_Resume.docx) — or [email me](mailto:rkahi001@odu.edu) for a PDF copy.
+
+## Experience
+
+| | |
+|:---|---:|
+| Graduate Research Assistant — Old Dominion University, Norfolk, VA | 2024–Present |
+| Founder & Portfolio Manager — ARKA Mohaseb Sahand, International | 2018–2021 |
+| Research Collaborator — Arman Ati Financial Group, International | 2019 |
+| Finance & Inventory Intern — Jaber Ebne Hayyan Pharmaceutical Co., International | Summers 2016–2017 |
+
+: {.ledger-table}
+
+## Skills
+
+Python, R, MATLAB, SAS, Stata, EViews, SPSS — asset pricing, portfolio analysis, risk management, time-series analysis, return forecasting — CRSP, TAQ, COMPUSTAT, Bloomberg.
+
+## Certifications & awards
+
+| | |
+|:---|---:|
+| CFA Level III Candidate, Passed Level II | 2026 |
+| Bloomberg Market Concepts | 2024 |
+| GSAP Research Award, $4,000 — Old Dominion University | 2026 |
+| Ranked 2nd, Financial Engineering Graduates — U. Isfahan | 2021 |
+| Stock Market Stars League, U. Isfahan Team (4th of 34) | 2018–19 |
+
+: {.ledger-table}

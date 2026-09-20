@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Reza Kahibavil"
+  site-url: "https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: projects.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: mailto:rkahi001@odu.edu
+        aria-label: Email
+  page-footer:
+    center: "Reza Kahibavil · Old Dominion University, Department of Finance"
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    grid:
+      body-width: 800px
+    toc: false
+    link-external-newwindow: true

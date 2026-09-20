@@ -1,0 +1,15 @@
+---
+title: "Projects"
+---
+
+Independent and applied work alongside the dissertation research.
+
+## Strategy Lab {.unnumbered}
+
+*In development*
+
+A platform for constructing, backtesting, and comparing custom investment strategies against point-in-time market data — including multi-way portfolio sorts (5×5, 10×10) in the style of academic asset-pricing methodology — paired with financial-education and risk-profiling tools.
+
+## Analog Forecasting Backtest {.unnumbered}
+
+A short-horizon return-forecasting framework applying z-score standardized pattern matching and RMSE similarity to CRSP daily return data.

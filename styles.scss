@@ -1,0 +1,34 @@
+/*-- scss:defaults --*/
+$link-color: #1C6B52;
+$body-color: #16222B;
+$font-family-sans-serif: "IBM Plex Sans", "Segoe UI", Helvetica, Arial, sans-serif;
+$font-family-serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+$headings-font-family: $font-family-serif;
+$headings-font-weight: 600;
+$navbar-bg: #F3F5F4;
+
+/*-- scss:rules --*/
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600&display=swap');
+
+.navbar-title {
+  font-family: $font-family-serif;
+  font-weight: 600;
+}
+
+table {
+  font-size: 0.95rem;
+}
+
+.ledger-table thead {
+  display: none; /* label/date pair tables don't need a visible header row */
+}
+
+.status-tag {
+  display: inline-block;
+  font-size: 0.78rem;
+  border: 1px solid #D7DCDA;
+  border-radius: 3px;
+  padding: 1px 8px;
+  margin: 0 4px 4px 0;
+  color: #9C7A2E;
+}

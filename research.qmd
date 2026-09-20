@@ -1,0 +1,35 @@
+---
+title: "Research"
+---
+
+Empirical asset pricing, with a focus on extreme-return anomalies and the channels — retail participation, expectation formation — behind them. Organized by where each piece currently stands.
+
+## Published
+
+Yung, K., Kahibavil, R., Li, S., & Amidi, A. (2026). "International Evidence on the Relationship Between Financial Literacy and Corporate Cash Holdings." *Journal of Corporate Accounting & Finance.*
+
+## Under review
+
+### Do Retail Investors Drive Lottery-Like Stock Mispricing? {.unnumbered}
+
+Haghighi Zadeh, R., Kahibavil, R., & Safari, N. — accepted for presentation, Southern Finance Association Annual Meeting, 2026; under review, *Journal of Banking & Finance*
+
+This paper examines whether retail investor participation explains the underperformance of lottery-like stocks. Prior literature largely associates retail trading with attention-driven, episodic buying following salient events such as extreme returns or news. In contrast, we focus on systematic retail participation. Using weekly holdings data from Robinhood, we construct multiple measures of systematic retail participation that capture persistent ownership and flow dynamics rather than short-lived attention shocks. We study how these measures relate to the MAX anomaly — the negative relation between recent extreme daily returns and future stock returns — and whether retail activity amplifies this effect. Systematic retail participation robustly predicts positive future returns, with high-retail stocks earning economically meaningful excess returns, while the MAX anomaly remains negative and economically important. Retail participation does not systematically interact with the MAX effect: lottery-like stocks underperform regardless of retail intensity, and the retail return premium persists across levels of MAX. These results indicate that retail participation and lottery-like return realizations represent distinct channels of return predictability.
+
+### Expected vs. Unexpected Extremes: The Origins of the MAX Anomaly? {.unnumbered}
+
+Haghighi Zadeh, R., Kahibavil, R., & Safari, N. — accepted for presentation, Southern Finance Association Annual Meeting, 2026; under review, *Review of Finance*
+
+Decomposes extreme stock returns into expected and unexpected components to test whether each carries different implications for subsequent returns, applying cross-sectional asset-pricing methods to large-scale return panels (CRSP/TAQ).
+
+## Working papers
+
+- Beyond Realized Volatility: Why the IVOL Puzzle May Be a Mirage
+- The Conditional Predictive Power of Extreme Returns: An Extension of the Max Effect
+- When Buybacks Meet Myopia: A Global Cross-Disciplinary Review of Short-Termism and Capital Allocation
+- Revisiting Cross-Listing: Examining Stock Returns and Market Integration
+- Sports Betting Legalization and Speculative Stock Behavior — a triple difference-in-differences design
+
+::: {.callout-note appearance="simple"}
+Drafts for these go here as they firm up. Once one's posted to SSRN or OSF, the title above becomes a link.
+:::

@@ -1,0 +1,30 @@
+---
+title: "Reza Kahibavil"
+---
+
+Ph.D. candidate in Finance, Old Dominion University — empirical asset pricing, return predictability, and portfolio analytics.
+
+Formerly founder and portfolio manager of a financial advisory firm managing more than 100 individual and 20 institutional portfolios. Now researching how extreme returns, retail participation, and market frictions shape the cross-section of stock returns, using large-scale panel data in Python, R, and SAS.
+
+**Contact:** [rkahi001@odu.edu](mailto:rkahi001@odu.edu) &nbsp;·&nbsp; 757-895-5266 &nbsp;·&nbsp; Norfolk, VA &nbsp;·&nbsp; CFA Level III Candidate
+
+## Education
+
+| | |
+|:---|---:|
+| **Ph.D. Candidate, Finance** — Old Dominion University, Norfolk, VA | 2024–Present |
+| **M.S., Financial Engineering and Risk Management** — University of Isfahan, International | 2017–2021 |
+| **B.S., Industrial Management** — Shahid Beheshti University, International | 2012–2016 |
+
+: {.ledger-table}
+
+## At a glance
+
+| | |
+|:---|---:|
+| Ph.D. candidate, Finance | 2024– |
+| Portfolios managed (individual / institutional) | 100+ / 20 |
+| Publication / papers in the pipeline | 1 / 5 |
+| CFA | Level III candidate, Level II passed |
+
+: {.ledger-table}
